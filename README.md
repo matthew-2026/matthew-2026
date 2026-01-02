@@ -53,15 +53,6 @@ Specialized in modern frontend frameworks, backend microservices, cloud infrastr
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github)
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-0A0A0A?style=flat)
 
----
-
-### 🤖 AI & Integrations
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai)
-- AI-powered product features
-- CRM & ECM Integrations
-- Banking & SaaS Platforms
-
----
 
 ## 💼 Professional Experience
 
