@@ -53,41 +53,9 @@ Specialized in modern frontend frameworks, backend microservices, cloud infrastr
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github)
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-0A0A0A?style=flat)
 
+## 📈 Activity Graph
 
-## 💼 Professional Experience
-
-### 🏢 Pacific Technology Solutions — *Irvine, CA*
-**Full Stack Developer** | *Jan 2023 – Dec 2023*
-
-✅ Led SaaS platform development (React, Vue, Angular, Node.js) → **+35% user engagement**  
-✅ Designed microservices for **100k+ concurrent users** with **99.9% uptime**  
-✅ Implemented CI/CD, security best practices, and automated testing  
-✅ Mentored **4+ junior developers**  
-✅ Integrated CRM, ECM, and banking SaaS modules  
-✅ Improved performance by **40%** via caching & optimization  
-
----
-
-### 🏢 NorthStar Cloud Solutions — *Los Angeles, CA*
-**Senior Full Stack Engineer** | *Mar 2019 – Dec 2021*
-
-✅ Built scalable apps serving **50k+ daily users**  
-✅ Developed REST APIs & microservices  
-✅ Automated testing (Karma, Mocha, Chai, Sinon)  
-✅ Managed on-prem & cloud deployments  
-✅ Led Agile/Scrum teams and mentored engineers  
-
----
-
-### 🏢 West Coast Fulfillment Center — *Los Angeles, CA*
-**Senior Full Stack Engineer** | *2016 – 2018*
-
-✅ Delivered high-volume, low-latency Node.js systems  
-✅ Improved operational visibility by **60%**  
-✅ Designed banking workflow integrations (CRM/ECM)  
-✅ Applied SOLID principles & design patterns  
-
----
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=noeljyoung&theme=radical&hide_border=true)](https://github.com/noeljyoung)
 
 ### 🏢 ProCore Productions — *Gardena, CA*
 **Full Stack Engineer** | *2014 – 2016*
